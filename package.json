@@ -40,7 +40,12 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
+    "immutable": "^3.7.6",
+    "interval-arithmetic-eval": "^0.4.3",
+    "linspace": "0.0.1-1",
+    "lodash": "^3.10.1",
     "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react-dom": "^0.14.0",
+    "scales": "^0.1.1"
   }
 }
